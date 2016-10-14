@@ -1,0 +1,90 @@
+body  {
+	font-family: 'algereya SC', serif;
+}
+.nav{
+	background-color: #a82e2e;
+	color: #ffffff;
+	list-style: none;
+	text-align: right;
+	padding: 20px 0 0 0;
+}
+.nav > li {
+	display: inline-block;
+	padding: 10px 15px 25px 25px;
+
+}
+.nav > li > a {
+	text-decoration: none;
+	color: #ffffff;
+	
+}
+.nav > li > a:hover {
+	color: #000000;
+}
+.logo{
+     float: left;
+     padding: 0 25px 25px 25px;
+}
+.logo > a{
+	text-decoration: none;
+	color:#ffffff;
+	font-size: 40px;
+	font-weight: bolder;
+}
+.banner {
+	width: 100%;
+	display: block;
+}
+.banner > .banner1 {
+	width: 100%;
+	display: block;
+}
+.introduction {
+	text-align: center;
+	float: 5px 12px 5px 12px;
+    color: #787469;
+}
+.introduction > h1 {
+	
+	font-weight: bolder;
+	font-size: 60px; 
+	color: #a82e2e;
+}
+.introduction > h3 {
+	padding :0 25px;
+}
+.introduction > p {
+	size: 20px;
+}                             
+.introduction > p:hover {
+	color: #a82e2e;
+
+}
+.banner > .banner2  {
+	width: 100%;
+	display: block;
+	 
+}
+#float {
+	float: left;
+	margin: 0 0 0 15%;
+	
+}
+#sandwich {
+	margin: 0 15% 0 0;
+	text-align: left;
+}
+#sandwich > h4 {
+	font-size: 22px;
+	color: #a82e2e;
+}
+#sandwich > h2 {
+	font-size: 32px;
+}
+#sandwich > h5 {
+	font-size: 18px;
+	color: #787469;
+}
+#sandwich > p > #sandwichButton {
+	position: center;
+}
